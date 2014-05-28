@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rsp stat="ok">
+  <list>
+    <widget id="">
+      <title></title>
+      <compression size="" type="zip"/>
+      <description></description>
+      <!-- Place Your Server IP and the path to the archive.zip file. Example below -->
+      <download>127.0.0.1/app/archive/archive.zip</download>
+    </widget>
+  </list>
+</rsp>

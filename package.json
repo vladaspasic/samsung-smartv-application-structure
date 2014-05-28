@@ -1,0 +1,20 @@
+{
+  "name": "YourAppName",
+  "version": "0.1.0",
+  "description": "App description",
+  "devDependencies": {
+    "grunt": "~0.4.2",
+    "grunt-contrib-jshint": "~0.6.3",
+    "grunt-contrib-nodeunit": "~0.2.0",
+    "grunt-contrib-uglify": "~0.4.0",
+    "grunt-contrib-concat": "~0.3.0",
+    "grunt-contrib-compress": "~0.7.0",
+    "grunt-contrib-watch": "~0.5.3",
+    "grunt-xmlpoke": "~0.3.0"
+  },
+  "dependencies": {
+    "xpath": "0.0.5",
+    "xmldom": "~0.1.16",
+    "lodash": "2.4.1"
+  }
+}

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget>
+	<ThumbIcon>images/icon.png</ThumbIcon>
+	<BigThumbIcon>images/icon.png</BigThumbIcon>
+	<ListIcon>images/icon.png</ListIcon>
+	<BigListIcon>images/icon.png</BigListIcon>
+	<category itemtype="string"></category>
+	<type itemtype="string">user</type>
+	<cpname itemtype="string"></cpname>
+	<cplogo itemtype="string"></cplogo>
+	<cpauthjs itemtype="string"></cpauthjs>
+	<ver itemtype="string">1.000</ver>
+	<mgver itemtype="string"></mgver>
+	<fullwidget itemtype="boolean">y</fullwidget>
+	<srcctl itemtype="boolean">y</srcctl>
+	<ticker itemtype="boolean">n</ticker>
+	<childlock itemtype="boolean">n</childlock>
+	<audiomute itemtype="boolean">n</audiomute>
+	<videomute itemtype="boolean">n</videomute>
+	<dcont itemtype="string">y</dcont>
+	<widgetname itemtype="string">Your Application Name</widgetname>
+	<description itemtype="string"></description>
+	<width itemtype="number">1280</width>
+	<height itemtype="number">720</height>
+	<author itemtype="group">
+		<name itemtype="string"></name>
+		<email itemtype="string"></email>
+		<link itemtype="string"></link>
+		<organization itemtype="string"></organization>
+	</author>
+</widget>
