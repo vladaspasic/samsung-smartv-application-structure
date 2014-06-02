@@ -1,4 +1,4 @@
-Basic Structure for a Smasung Smart TV App
+Basic Structure for a Samsung Smart TV App
 =========
 
 This structure can help you setup a small environment for building Samsung Smart TV Apps. Instead of using Eclipse IDE, which can be an overkill, as advised by Samsung, we can use simple text editors to write our code.
