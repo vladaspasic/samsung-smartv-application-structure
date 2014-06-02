@@ -87,6 +87,4 @@ module.exports = function(grunt) {
 	grunt.registerTask('compile', ['concat', 'uglify']);
 
 	grunt.registerTask('build', ['concat', 'uglify', 'compress', 'xmlpoke']);
-
-	//grunt.registerTask('widgetlist', ['xmlpoke']);
 };
